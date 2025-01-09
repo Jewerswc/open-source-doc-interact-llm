@@ -1,0 +1,5 @@
+# List of required Python packages
+Django==4.2
+transformers==4.30.0
+pydantic==2.0.1
+docker==6.0.0
